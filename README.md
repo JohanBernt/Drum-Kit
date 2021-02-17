@@ -5,3 +5,4 @@ Then I added Event listeners to add sounds for both clicking and keyboard functi
 Lastly I added animations when a drum is selected and used a setTimeout function.
 
 Please click on the website to view the project.
+https://johanbernt.github.io/Drum-Kit/ 
